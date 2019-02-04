@@ -1,0 +1,14 @@
+{"prepareFilesAdress":"/home/patrick/Desktop/freelance/Textming/module/sample_data/sample_data_to_develop_wordlist_removed_large_part_to_reduce_size",
+ "prepareFilesAllForm4":"False",
+ "targetFilesAdress":"/home/patrick/Desktop/freelance/Textming/module/sample_data/sample_data_to_develop_wordlist_removed_large_part_to_reduce_size",
+ "usePreexistingPreparedWordlist":"FALSE",
+ "wordListAddress":"/home/patrick/Desktop/freelance/Textming/module/changesNotifier/changeWords.json",
+ "entityClassifierAddress":"/home/patrick/Desktop/freelance/Textming/stanford-ner-2018-10-16/stanford-ner.jar",
+ "englishModelAddress":"/home/patrick/Desktop/freelance/Textming/stanford-ner-2018-10-16/classifiers/english.conll.4class.distsim.crf.ser.gz",
+ "databaseAddress":"/home/patrick/Desktop/freelance/Textming/changes.db",
+ "scrapePerson":"True",
+ "scrapeOrganizatio":"True",
+ "dublicationLimit":".3"
+}
+
+
